@@ -22,6 +22,9 @@ Submission ini berhasil memenuhi seluruh persyaratan yang telah ditetapkan. Beri
 
 ![main](Screnshoot/submission-info-2.png)
 
+ℹ️ **Note:** Proyek ini belum sepenuhnya responsif pada semua perangkat. Perlu dilakukan penyesuaian lebih lanjut untuk memastikan tampilan yang optimal di berbagai ukuran layar.
+
+
 
 ## Presented By :
 
