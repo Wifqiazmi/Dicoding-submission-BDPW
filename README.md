@@ -1,6 +1,6 @@
 <div align="center">
 
-# dicoding-submission-bdpw
+# DICODING-submission-bdpw :trophy:
 
 Dicoding Submission Belajar Dasar Pemrograman Web
 
