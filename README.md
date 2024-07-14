@@ -4,9 +4,10 @@
 
 Dicoding Submission Belajar Dasar Pemrograman Web
 
+[![Tech](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
 
 ## :mag_right: Website Preview
-![main](Screenshots/Kelasku.png)
+![main](Screnshoot/Kelasku.png)
 
 
 ## Submission info
