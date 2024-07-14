@@ -1,5 +1,5 @@
 <div align="center">
-# 📝 
+  # 📝
 # Dicoding Submission Belajar Dasar Pemrograman Web
 
 [![Tech](https://skillicons.dev/icons?i=,html,css,js,)](https://skillicons.dev)
