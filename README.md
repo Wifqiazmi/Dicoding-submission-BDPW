@@ -2,7 +2,7 @@
 
 Dicoding Submission Belajar Dasar Pemrograman Web
 
-## Preview
+<div align="center">
 
 ## :mag_right: Website Preview
 <img src="./Kelasku.png" alt="Preview Image"/>
@@ -14,6 +14,7 @@ Dicoding Submission Belajar Dasar Pemrograman Web
 ## Hasil Review
 
 Submission ini berhasil memenuhi seluruh persyaratan yang telah ditetapkan. Berikut adalah screnshoot beberapa poin penting dari hasil review:
+
 ![main](Screnshoot/submission-info-2.png)
 
 
