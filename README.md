@@ -1,8 +1,8 @@
 # dicoding-submission-mfwde
 
-Dicoding Submission Menjadi Front-End Web Developer Expert
+Dicoding Submission Belajar Dasar Pemrograman Web
 
 ## Screenshoot
 
-![main](Screenshoot/submission-info-1.png)
-![main](Screenshoot/submission-info-2.png)
+![main](Screnshoot/submission-info-1.png)
+![main](Screnshoot/submission-info-2.png)
