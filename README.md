@@ -1,11 +1,13 @@
+<div align="center">
+
 # dicoding-submission-bdpw
 
 Dicoding Submission Belajar Dasar Pemrograman Web
 
-<div align="center">
 
 ## :mag_right: Website Preview
-<img src="./Kelasku.png" alt="Preview Image"/>
+![main](Screenshots/Kelasku.png)
+
 
 ## Submission info
 
@@ -16,7 +18,6 @@ Dicoding Submission Belajar Dasar Pemrograman Web
 Submission ini berhasil memenuhi seluruh persyaratan yang telah ditetapkan. Berikut adalah screnshoot beberapa poin penting dari hasil review:
 
 ![main](Screnshoot/submission-info-2.png)
-
 
 
 ## Presented By :
