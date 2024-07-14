@@ -1,9 +1,10 @@
 <div align="center">
 
-  [![Tech](https://skillicons.dev/icons?i=,html,css,js,)](https://skillicons.dev)
 
 # 
 # Dicoding Submission Belajar Dasar Pemrograman Web
+
+  [![Tech](https://skillicons.dev/icons?i=,html,css,js,)](https://skillicons.dev)
 
 ## Website Preview
 ![main](Screnshoot/Kelasku.png)
