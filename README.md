@@ -1,10 +1,8 @@
 <div align="center">
+# 📝 
+# Dicoding Submission Belajar Dasar Pemrograman Web
 
-# DICODING-SUBMISSION-BDPW :white_check_mark:
-
-Dicoding Submission Belajar Dasar Pemrograman Web
-
-[![Tech](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+[![Tech](https://skillicons.dev/icons?i=,html,css,js,)](https://skillicons.dev)
 
 # Website Preview
 ![main](Screnshoot/Kelasku.png)
